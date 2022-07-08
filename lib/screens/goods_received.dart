@@ -94,6 +94,7 @@ class _GoodReceivedState extends State<GoodReceived> {
 
   String configs = '';
   String deviceInfo = '';
+  String ssas = "";
 
   TextEditingController test = TextEditingController();
   @override
